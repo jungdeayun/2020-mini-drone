@@ -17,8 +17,8 @@
 ## 3차 워크샵
 - [1강_matlab PDF](http://gofile.me/3IIp4/KqaEQ76jy)
 
-- [1강 Youtube]()
+- [1강 Youtube](https://www.youtube.com/watch?v=AATzvm074k4&list=PLZlJypPEW-QmcA19YheMeUMn-Cgk6sEc7&index=15)
 
 - [2강_python PDF](http://gofile.me/3IIp4/OIVTjIXRd)
 
-- [2강 Youtube]()
+- [2강 Youtube](https://www.youtube.com/watch?v=mSrEzGyELcQ&list=PLZlJypPEW-QmcA19YheMeUMn-Cgk6sEc7&index=16)
