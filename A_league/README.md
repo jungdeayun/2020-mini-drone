@@ -22,8 +22,8 @@
 ## 3차 워크샵
 - [1강 PDF](http://gofile.me/3IIp4/6nP7taI8J)
 
-- [1강 Youtube]()
+- [1강 Youtube](https://www.youtube.com/watch?v=qt7miOnCQSI&list=PLZlJypPEW-QmcA19YheMeUMn-Cgk6sEc7&index=17)
 
 - [2강 PDF](http://gofile.me/3IIp4/T6gPpPkr6)
 
-- [2강 Youtube]()
+- [2강 Youtube](https://www.youtube.com/watch?v=RIQO7T7zGmI&list=PLZlJypPEW-QmcA19YheMeUMn-Cgk6sEc7&index=18)
