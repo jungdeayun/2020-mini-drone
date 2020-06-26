@@ -1,3 +1,18 @@
+## 재료 구입 링크
+
+* 링 
+   - 색지: [구입링크](http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=A922772104&frm3=V2) 001~050 무광 단색 / 7번. SD907
+   
+* 표식 (RGB 값)
+   |표식|R|G|B|
+   |:--:|:--:|:--:|:--:|
+   |좌회전|255|0|0|
+   |착지|0|112|192|
+
+
+<br>
+
+
 ## 전체
 #### 1단계
 ![image](https://user-images.githubusercontent.com/53847442/85099358-295b8d80-b238-11ea-8c8e-e6c365aa9adf.png)
