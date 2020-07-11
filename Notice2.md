@@ -70,7 +70,7 @@
   - [requirements.txt 작성 방법 참고](https://itholic.github.io/python-requirements/)
   
     
-- 본인이 제작한 requirements.txt 라즈베리파이에서 다음 명령어를 이용하여 점검해보시길 바랍니다.
+- 본인이 제작한 requirements.txt를 라즈베리파이에서 다음 명령어를 이용하여 점검해보시길 바랍니다.
 
   ```bash
   $ pip3 install -r requirements.txt
