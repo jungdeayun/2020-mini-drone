@@ -57,6 +57,7 @@
 <br>
 
 ## 상세
+**링과 상자가 겹치는 길이는 20cm(±10cm) 입니다.**
 
 ![슬라이드1](https://user-images.githubusercontent.com/41243762/85835426-08fb7800-b7d0-11ea-9e39-d6d2358a59d0.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/41243762/85835428-08fb7800-b7d0-11ea-88ad-9b45c8d2d797.JPG)
